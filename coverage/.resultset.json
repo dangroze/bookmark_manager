@@ -8,6 +8,13 @@
         1,
         1,
         1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
         1,
         1,
         1,
@@ -17,9 +24,18 @@
       ],
       "/Users/dangroze/makers/Week4/bookmark_manager/spec/features/bookmark_spec.rb": [
         1,
+        null,
         1,
         1,
         1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
         1,
         1,
         1,
@@ -36,6 +52,6 @@
         null
       ]
     },
-    "timestamp": 1548773031
+    "timestamp": 1548782001
   }
 }
