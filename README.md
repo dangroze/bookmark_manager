@@ -10,6 +10,10 @@ Anyone needing to setup the database from scratch will need to do the following 
 As a user
 I would like to see a list of bookmarks
 
+As a user
+I would like to add a bookmark to the list
+
 |object|message|
 |:----:|:-----:|
 |list  |show   |
+|list  |add_bookmark|
