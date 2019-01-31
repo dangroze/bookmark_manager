@@ -3,6 +3,12 @@
     "coverage": {
       "/Users/dangroze/makers/Week4/bookmark_manager/spec/bookmark_spec.rb": [
         1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
         null,
         1,
         1,
@@ -13,18 +19,13 @@
         1,
         1,
         null,
-        1,
-        null,
-        1,
-        1,
-        1,
-        null,
         null,
         null,
         1,
         1,
         1,
         null,
+        1,
         1,
         null,
         null,
@@ -33,7 +34,6 @@
       "/Users/dangroze/makers/Week4/bookmark_manager/spec/features/bookmark_spec.rb": [
         1,
         null,
-        1,
         1,
         1,
         null,
@@ -57,6 +57,7 @@
         1,
         1,
         1,
+        1,
         null,
         1,
         null,
@@ -71,6 +72,6 @@
         null
       ]
     },
-    "timestamp": 1548863729
+    "timestamp": 1548950682
   }
 }
